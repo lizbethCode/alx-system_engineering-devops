@@ -1,3 +1,3 @@
-[master 5ba63cd] Something is wrong with me
- 1 file changed, 2 insertions(+)
- create mode 100755 0x02-shell_redirections/1-confused_smiley
+[master b04143e] seriously worried
+ 2 files changed, 5 insertions(+), 1 deletion(-)
+ create mode 100644 0x02-shell_redirections/2-hellofile
